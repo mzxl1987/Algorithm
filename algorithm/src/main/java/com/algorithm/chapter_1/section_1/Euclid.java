@@ -1,4 +1,4 @@
-package com.algorithm._1_1;
+package com.algorithm.chapter_1.section_1;
 
 import java.io.IOException;
 import java.util.Scanner;
